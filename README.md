@@ -6,5 +6,7 @@ To further enhance accuracy, I optimize the hyperparameters of the models, fine-
 
 
 
-Uploading Sales  prediction  intern task 1.mp4…
+https://github.com/user-attachments/assets/1d599c97-112f-4f30-aecb-fdc9175dc0fe
+
+
 
