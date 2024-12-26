@@ -3,3 +3,8 @@ For sales prediction #NovaNectar Services Pvt. Ltd., I collect and preprocess th
 Once the models are trained on the historical data, I validate their accuracy by evaluating performance using key metrics like RMSE (Root Mean Squared Error), MAE (Mean Absolute Error), and R-squared. These metrics provide insight into how well the model predicts future sales.
 
 To further enhance accuracy, I optimize the hyperparameters of the models, fine-tuning them to achieve the best performance. After training and optimizing the models, I provide actionable insights that can guide business strategies, such as inventory management, promotional planning, and pricing strategies.
+
+
+
+Uploading Sales  prediction  intern task 1.mp4…
+
